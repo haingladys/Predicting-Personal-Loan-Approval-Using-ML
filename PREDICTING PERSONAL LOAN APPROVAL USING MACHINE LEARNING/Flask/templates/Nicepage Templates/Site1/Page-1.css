@@ -1,0 +1,260 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1316px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 1263px;
+  --thumb-color: #478ac9;
+  --thumb-hover-color: #77aad9;
+  --track-color: #c0c0c0;
+  --track-active-color: #478ac9;
+  width: 936px;
+  margin: 54px auto 0;
+}
+
+.u-section-1 .u-form-group-1 {
+  margin-left: 0;
+  font-weight: 700;
+  font-size: 1.26667rem;
+  padding-left: 9px;
+}
+
+.u-section-1 .u-label-1 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-input-1 {
+  font-weight: 600;
+}
+
+.u-section-1 .u-form-group-2 {
+  margin-left: 0;
+  font-weight: 700;
+  font-size: 1.26667rem;
+  padding-left: 9px;
+}
+
+.u-section-1 .u-label-2 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-input-2 {
+  font-weight: 600;
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-left: 0;
+  font-weight: 700;
+  font-size: 1.26667rem;
+  padding-left: 9px;
+}
+
+.u-section-1 .u-label-3 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-input-3 {
+  font-weight: 600;
+}
+
+.u-section-1 .u-form-group-4 {
+  margin-left: 0;
+  font-weight: 700;
+  font-size: 1.26667rem;
+  padding-left: 9px;
+}
+
+.u-section-1 .u-label-4 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-input-4 {
+  font-weight: 600;
+}
+
+.u-section-1 .u-form-group-5 {
+  margin-left: 0;
+  font-weight: 700;
+  font-size: 1.26667rem;
+  padding-left: 9px;
+}
+
+.u-section-1 .u-label-5 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-input-5 {
+  font-weight: 600;
+}
+
+.u-section-1 .u-form-group-6 {
+  margin-left: 0;
+  font-weight: 700;
+  font-size: 1.26667rem;
+  padding-left: 9px;
+}
+
+.u-section-1 .u-label-6 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-input-6 {
+  font-weight: 600;
+}
+
+.u-section-1 .u-form-group-7 {
+  margin-left: 0;
+  font-weight: 700;
+  font-size: 1.26667rem;
+  padding-left: 9px;
+}
+
+.u-section-1 .u-label-7 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-input-7 {
+  font-weight: 600;
+}
+
+.u-section-1 .u-form-group-8 {
+  --progress: 0%;
+  margin-left: 0;
+  font-weight: 700;
+  font-size: 1.26667rem;
+  padding-left: 9px;
+}
+
+.u-section-1 .u-label-8 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-input-8 {
+  font-weight: 600;
+}
+
+.u-section-1 .u-form-group-9 {
+  --progress: 0%;
+  margin-left: 0;
+  font-weight: 700;
+  font-size: 1.26667rem;
+  padding-left: 9px;
+}
+
+.u-section-1 .u-label-9 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-input-9 {
+  font-weight: 600;
+}
+
+.u-section-1 .u-form-group-10 {
+  --progress: 0%;
+  margin-left: 0;
+  font-weight: 700;
+  font-size: 1.26667rem;
+  padding-left: 9px;
+}
+
+.u-section-1 .u-label-10 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-input-10 {
+  font-weight: 600;
+}
+
+.u-section-1 .u-form-group-11 {
+  --progress: 0%;
+  margin-left: 0;
+  font-weight: 700;
+  font-size: 1.26667rem;
+  padding-left: 9px;
+}
+
+.u-section-1 .u-label-11 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-input-11 {
+  font-weight: 600;
+}
+
+.u-section-1 .u-form-group-12 {
+  margin-left: 0;
+  font-weight: 700;
+  font-size: 1.26667rem;
+  padding-left: 9px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  display: inline-block;
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-form-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-form-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-form-group-1 {
+    font-size: 1rem;
+  }
+
+  .u-section-1 .u-form-group-2 {
+    font-size: 1rem;
+  }
+
+  .u-section-1 .u-form-group-3 {
+    font-size: 1rem;
+  }
+
+  .u-section-1 .u-form-group-4 {
+    font-size: 1rem;
+  }
+
+  .u-section-1 .u-form-group-5 {
+    font-size: 1rem;
+  }
+
+  .u-section-1 .u-form-group-6 {
+    font-size: 1rem;
+  }
+
+  .u-section-1 .u-form-group-7 {
+    font-size: 1rem;
+  }
+
+  .u-section-1 .u-form-group-8 {
+    font-size: 1rem;
+  }
+
+  .u-section-1 .u-form-group-9 {
+    font-size: 1rem;
+  }
+
+  .u-section-1 .u-form-group-10 {
+    font-size: 1rem;
+  }
+
+  .u-section-1 .u-form-group-11 {
+    font-size: 1rem;
+  }
+
+  .u-section-1 .u-form-group-12 {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-form-1 {
+    width: 340px;
+  }
+}
